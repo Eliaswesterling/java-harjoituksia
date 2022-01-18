@@ -12,7 +12,6 @@ public class Harjoitus3 {
 		System.out.println("start:" + start + ", end:" + end);
 		for (int i = start; i <= end; i++) {
 			System.out.println(i);
-			System.out.println(i);
 			
 		}
 	}
